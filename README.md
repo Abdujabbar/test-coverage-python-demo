@@ -1,6 +1,6 @@
 CodeClimate badges
 --------------------------------------
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/e73bba66691fe98d371f/maintainability)](https://codeclimate.com/github/Abdujabbar/test-covergate-demo/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1604c89df7103ec32c1d/maintainability)](https://codeclimate.com/github/Abdujabbar/test-coverage-python-demo/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/e73bba66691fe98d371f/test_coverage)](https://codeclimate.com/github/Abdujabbar/test-covergate-demo/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1604c89df7103ec32c1d/test_coverage)](https://codeclimate.com/github/Abdujabbar/test-coverage-python-demo/test_coverage)
